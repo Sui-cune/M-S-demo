@@ -1,0 +1,22 @@
+ul,li{
+    list-style: none;
+}
+body,html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+}
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+}
+.ql-editor{
+    min-height: 300px;
+}
